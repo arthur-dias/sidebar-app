@@ -13,7 +13,3 @@ Simples app que utiliza Context API para controlar o funcionamento de um modal e
 3) npm install || yarn install;
 4) npm start || yarn start;
 5) Abrir [http://localhost:3000](http://localhost:3000) no browser.
-
-## Demo
-
-https://sidebar-app.netlify.app/
